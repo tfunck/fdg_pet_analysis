@@ -1,5 +1,6 @@
 # INSTALL
 cd build
+
 bash build.sh
 
 # RUN
